@@ -1,6 +1,6 @@
 # swig-direct user stories
 
-Felix / Hydromea
+**Felix / Hydromea**
 Here are some user stories on SWiGdirect, from the perspective of LUMA users (based on our understanding what our customers need to do):
 
 Initial setup:
@@ -20,7 +20,7 @@ Operation:
 
 
 
-Nigel / Imenco
+**Nigel / Imenco**
 Some user stories to cover a range of usage:
 
 A service technician connects to a deployed device. They confirm figures of merit for the communications link since the last time they were read, and optionally reset the statistics. The technician needs to understand communications parameters from the device label or vessel records. For serial connection, parameters include port type (RS232 etc) bit rate, framing information. For IP connection, parameters include IP address , UDP or TCP and port number. Also need to know authentication parameters
